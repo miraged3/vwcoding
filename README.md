@@ -1,4 +1,9 @@
-![VW coding](docs/assets/images/logo.png)  
+![VW coding](docs/assets/images/logo.png)
+
+## ПЕРЕВОДЫ
+
+- [English](README.en.md)
+- [简体中文](README.zh.md)
 
 ## ОПИСАНИЕ
 

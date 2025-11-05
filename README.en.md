@@ -1,5 +1,10 @@
 ![VW coding](docs/assets/images/logo.png)
 
+## Translations
+
+- [Русский](README.md)
+- [简体中文](README.zh.md)
+
 ## Description
 
 This site is build with Markdown language.
